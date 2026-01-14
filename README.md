@@ -32,25 +32,6 @@ Each arithmetic operation is handled by a **separate servlet**, following a clea
 
 ---
 
-## 📂 Project Structure
-
-calculator_using_servlet/
-│
-├── src/
-│ ├── AddServlet.java
-│ ├── SubServlet.java
-│ ├── MulServlet.java
-│ ├── DivServlet.java
-│
-├── WebContent/
-│ ├── index.jsp
-│ ├── css/
-│ │ └── calculator.css
-│
-└── README.md
-
-
-
 ## ⚙️ How It Works
 
 1. User enters two numbers in the form.
@@ -99,7 +80,7 @@ Add history of calculations
 Convert to Spring MVC
 
 👨‍💻 Author
-Amit
+EngineerAmitG
 Aspiring Java Developer
 
 📄 License
