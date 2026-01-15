@@ -11,7 +11,7 @@
 <form action="add" method="post">
 
     <fieldset>
-        <legend>Add Two Numbers</legend>
+        <legend>Calculator</legend>
 
         <label>Enter 1st Number :</label>
         <input type="number" value="<%= request.getParameter("n1") != null ? request.getParameter("n1") : "" %>" name="n1" required>
